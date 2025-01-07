@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrador.DESKTOP-8COHQ5A\\Documents\\C#\\Projects\\SistemaTarefas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4DB77A-F40A-48DB-839F-DCBC38D383BD}|SistemaTarefas\\SistemaTarefas.csproj|c:\\users\\administrador.desktop-8cohq5a\\documents\\c#\\projects\\sistematarefas\\sistematarefas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD4DB77A-F40A-48DB-839F-DCBC38D383BD}|SistemaTarefas\\SistemaTarefas.csproj|solutionrelative:sistematarefas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4DB77A-F40A-48DB-839F-DCBC38D383BD}|SistemaTarefas\\SistemaTarefas.csproj|c:\\users\\administrador.desktop-8cohq5a\\documents\\c#\\projects\\sistematarefas\\sistematarefas\\controllers\\contacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD4DB77A-F40A-48DB-839F-DCBC38D383BD}|SistemaTarefas\\SistemaTarefas.csproj|solutionrelative:sistematarefas\\controllers\\contacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4DB77A-F40A-48DB-839F-DCBC38D383BD}|SistemaTarefas\\SistemaTarefas.csproj|c:\\users\\administrador.desktop-8cohq5a\\documents\\c#\\projects\\sistematarefas\\sistematarefas\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD4DB77A-F40A-48DB-839F-DCBC38D383BD}|SistemaTarefas\\SistemaTarefas.csproj|solutionrelative:sistematarefas\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4DB77A-F40A-48DB-839F-DCBC38D383BD}|SistemaTarefas\\SistemaTarefas.csproj|c:\\users\\administrador.desktop-8cohq5a\\documents\\c#\\projects\\sistematarefas\\sistematarefas\\data\\sistematarefasdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD4DB77A-F40A-48DB-839F-DCBC38D383BD}|SistemaTarefas\\SistemaTarefas.csproj|solutionrelative:sistematarefas\\data\\sistematarefasdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4DB77A-F40A-48DB-839F-DCBC38D383BD}|SistemaTarefas\\SistemaTarefas.csproj|c:\\users\\administrador.desktop-8cohq5a\\documents\\c#\\projects\\sistematarefas\\sistematarefas\\models\\usuariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD4DB77A-F40A-48DB-839F-DCBC38D383BD}|SistemaTarefas\\SistemaTarefas.csproj|solutionrelative:sistematarefas\\models\\usuariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador.DESKTOP-8COHQ5A\\Documents\\C#\\Projects\\SistemaTarefas\\SistemaTarefas\\Program.cs",
+              "RelativeDocumentMoniker": "SistemaTarefas\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrador.DESKTOP-8COHQ5A\\Documents\\C#\\Projects\\SistemaTarefas\\SistemaTarefas\\Program.cs",
+              "RelativeToolTip": "SistemaTarefas\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAmwCoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T23:27:17.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContaController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador.DESKTOP-8COHQ5A\\Documents\\C#\\Projects\\SistemaTarefas\\SistemaTarefas\\Controllers\\ContaController.cs",
+              "RelativeDocumentMoniker": "SistemaTarefas\\Controllers\\ContaController.cs",
+              "ToolTip": "C:\\Users\\Administrador.DESKTOP-8COHQ5A\\Documents\\C#\\Projects\\SistemaTarefas\\SistemaTarefas\\Controllers\\ContaController.cs",
+              "RelativeToolTip": "SistemaTarefas\\Controllers\\ContaController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAIwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T23:25:51.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SistemaTarefasDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador.DESKTOP-8COHQ5A\\Documents\\C#\\Projects\\SistemaTarefas\\SistemaTarefas\\Data\\SistemaTarefasDBContext.cs",
+              "RelativeDocumentMoniker": "SistemaTarefas\\Data\\SistemaTarefasDBContext.cs",
+              "ToolTip": "C:\\Users\\Administrador.DESKTOP-8COHQ5A\\Documents\\C#\\Projects\\SistemaTarefas\\SistemaTarefas\\Data\\SistemaTarefasDBContext.cs",
+              "RelativeToolTip": "SistemaTarefas\\Data\\SistemaTarefasDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T23:25:41.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador.DESKTOP-8COHQ5A\\Documents\\C#\\Projects\\SistemaTarefas\\SistemaTarefas\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "SistemaTarefas\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\Administrador.DESKTOP-8COHQ5A\\Documents\\C#\\Projects\\SistemaTarefas\\SistemaTarefas\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "SistemaTarefas\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAowDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T23:23:21.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsuarioModel.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador.DESKTOP-8COHQ5A\\Documents\\C#\\Projects\\SistemaTarefas\\SistemaTarefas\\Models\\UsuarioModel.cs",
+              "RelativeDocumentMoniker": "SistemaTarefas\\Models\\UsuarioModel.cs",
+              "ToolTip": "C:\\Users\\Administrador.DESKTOP-8COHQ5A\\Documents\\C#\\Projects\\SistemaTarefas\\SistemaTarefas\\Models\\UsuarioModel.cs",
+              "RelativeToolTip": "SistemaTarefas\\Models\\UsuarioModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T23:23:17.596Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
